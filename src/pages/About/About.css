@@ -1,0 +1,15 @@
+.About {
+  background-color: #dadca8;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 50px;
+  gap: 23px;
+}
+
+.About > p {
+  font-weight: 200;
+  letter-spacing: 20px;
+}
